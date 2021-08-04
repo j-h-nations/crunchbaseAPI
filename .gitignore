@@ -4,3 +4,12 @@ crunchVenv
 # Ignoring test files
 JupyterTesting
 garbage
+.ipynb_checkpoints
+
+# vs code
+.vscode
+__pycache__
+
+#my own file
+sheet.xlsx
+output.xlsx
